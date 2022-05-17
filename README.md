@@ -1,2 +1,19 @@
+# Express with Typescript
 
-# Typescript module
+## Install
+
+```
+npm install
+```
+
+## Run
+
+```
+npm run dev
+```
+
+##Listen to port
+
+```
+server started at http://localhost:5000
+```
